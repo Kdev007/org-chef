@@ -94,6 +94,7 @@
   The following websites should support recipe extraction:
 
   - http://allrecipes.com/
+  - https://www.pachakam.com/
   - http://www.geniuskitchen.com/
   - https://www.simplyrecipes.com/
   - https://www.marthastewart.com/
